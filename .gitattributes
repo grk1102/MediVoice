@@ -1,4 +1,3 @@
-# Set text files to use LF line endings
 *.md text eol=lf
 *.py text eol=lf
 *.ipynb text eol=lf
