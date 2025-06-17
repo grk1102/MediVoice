@@ -1,3 +1,10 @@
+# Force LF line endings for text files
 *.md text eol=lf
 *.py text eol=lf
 *.ipynb text eol=lf
+*.gitattributes text eol=lf
+*.gitignore text eol=lf
+# Treat binary files as binary
+*.wav binary
+*.bin binary
+*.pt binary
