@@ -1,5 +1,5 @@
 ### MediVoice: Speech-to-Text Disease Detector
-MediVoice is a B.Tech minor project developed at B V Raju Institute of Technology, aimed at automating medical documentation and disease detection using AI. It leverages OpenAI's Whisper for speech-to-text transcription and spaCy's NLP models to map symptoms to ICD-10 codes, improving healthcare efficiency and patient outcomes.
+MediVoice is a B.Tech minor project aimed at automating medical documentation and disease detection using AI. It leverages OpenAI's Whisper for speech-to-text transcription and spaCy's NLP models to map symptoms to ICD-10 codes, improving healthcare efficiency and patient outcomes.
 
 ## Setup Instructions
 
